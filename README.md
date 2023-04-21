@@ -17,7 +17,7 @@
 
 [6.S081](https://pdos.csail.mit.edu/6.828/2020/schedule.html)：MIT的课，深入理解计算机系统。
 
-[]()
+[C++项目](https://www.zhihu.com/question/280881677/answer/1667822681)：可以去里面找找
 
 []()
 
