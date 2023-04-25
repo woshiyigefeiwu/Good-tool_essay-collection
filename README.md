@@ -22,7 +22,9 @@
 [《Libevent深入浅出》](https://github.com/aceld/libevent):Libevent 是一个事件通知库，或者说是网络库；这个文章可以说是教程。
 ps：最近在写协程库的时候事件驱动不知道咋搞...网上搜了很多东西突然发现这个东西！很棒啊！
 
-[]()
+[Libevent的官方文档](https://libevent.org/?spm=a2c6h.12873639.article-detail.5.22f43f11KWJatS)：这个是官方文档...
+
+[狂神说](https://www.kuangstudy.com/)：一个讲课的大佬，讲的不错，但是课也是真的贵死...
 
 []()
 
