@@ -19,7 +19,8 @@
 
 [C++项目](https://www.zhihu.com/question/280881677/answer/1667822681)：可以去里面找找
 
-[《Libevent深入浅出》](https://github.com/aceld/libevent)
+[《Libevent深入浅出》](https://github.com/aceld/libevent):Libevent 是一个事件通知库，或者说是网络库；这个文章可以说是教程。
+ps：最近在写协程库的时候事件驱动不知道咋搞...网上搜了很多东西突然发现这个东西！很棒啊！
 
 []()
 
