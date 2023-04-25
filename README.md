@@ -26,7 +26,7 @@ ps：最近在写协程库的时候事件驱动不知道咋搞...网上搜了很
 
 [狂神说](https://www.kuangstudy.com/)：一个讲课的大佬，讲的不错，但是课也是真的贵死...
 
-[]()
+[GitHub 漫游指南](https://github.phodal.com/#/chapter/Github%E6%BC%AB%E6%B8%B8%E6%8C%87%E5%8D%97)：GitHub使用指南，有时间看一下。
 
 []()
 
