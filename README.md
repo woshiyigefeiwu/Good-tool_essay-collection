@@ -40,6 +40,18 @@ ps：最近在写协程库的时候事件驱动不知道咋搞...网上搜了很
 
 #### 好文章，不错的公众号 等
 
+腾讯技术工程：一个公众号（腾讯一面的时候面试官告诉我的hhh），分享一下技术，讲的非常非常的仔细！
+
+[微信开源C++Libco介绍与应用（一）](https://zhuanlan.zhihu.com/p/51078499)
+
+[微信开源C++Libco介绍与应用（二）](https://zhuanlan.zhihu.com/p/51081816)
+
+[当谈论协程时，我们在谈论什么](https://mp.weixin.qq.com/s/IO4ynnKEfy2Rt-Me7EIeqg)
+
+[从无栈协程到 C++异步框架](https://mp.weixin.qq.com/s/QVXE7QbxEchl8ue4SoijiQ)
+
+[Libevent深入浅出 - Aceld(刘丹冰)](https://aceld.gitbooks.io/libevent/content/)
+
 []()
 
 []()
