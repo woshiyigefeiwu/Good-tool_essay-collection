@@ -52,6 +52,8 @@ ps：最近在写协程库的时候事件驱动不知道咋搞...网上搜了很
 
 [Libevent深入浅出 - Aceld(刘丹冰)](https://aceld.gitbooks.io/libevent/content/)
 
+[微信终端自研C++协程框架的设计与实现](https://mp.weixin.qq.com/s/c17DaD7JbKlDFT6J8haEFw)
+
 []()
 
 []()
